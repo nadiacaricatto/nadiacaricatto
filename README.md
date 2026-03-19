@@ -37,11 +37,11 @@
 
 **☁️ Nebula Forecast** — Real-time weather app with 5-day forecast<br>
 `JavaScript` `HTML` `CSS` `Open-Meteo API`<br>
-[GitHub](https://github.com/nadiacaricatto/projeto_clima)
+[Live](https://nadiacaricatto.github.io/nebula-forecast/) · [GitHub](https://github.com/nadiacaricatto/nebula-forecast)
 
 **📝 Sphere Social** — Blog with posts, comments and authentication<br>
 `Spring Boot` `React` `MySQL`<br>
-[Backend](https://github.com/nadiacaricatto/blogpessoal_spring) · [Frontend](https://github.com/nadiacaricatto/blogpessoal_react)
+[Backend](https://github.com/nadiacaricatto/sphere-backend) · [Frontend](https://github.com/nadiacaricatto/sphere-frontend)
 
 <details>
 <summary>▸ See more projects</summary>
@@ -49,11 +49,19 @@
 
 **💊 Dorgazil Drugstore** — Pharmacy inventory management system<br>
 `Spring Boot` `JPA` `MySQL`<br>
-[GitHub](https://github.com/nadiacaricatto/projetofinal_farmacia)
+[Backend](https://github.com/nadiacaricatto/dorgazil-backend) · [Frontend](https://github.com/nadiacaricatto/dorgazil-frontend)
+
+**📚 Livraria do Beco Horizontal** — Wizarding-themed library management system via terminal<br>
+`Java` `POO` `Collections`<br>
+[GitHub](https://github.com/nadiacaricatto/livraria-beco-horizontal)
+
+**🔤 Palindrome Checker** — Interactive palindrome checker and generator<br>
+`React` `TypeScript`<br>
+[Live](https://nadiacaricatto.github.io/palindrome-checker/) · [GitHub](https://github.com/nadiacaricatto/palindrome-checker)
 
 **🌐 Personal Portfolio** — My personal portfolio with bilingual support<br>
 `HTML` `CSS` `JavaScript`<br>
-[Live](https://nadiacaricatto.github.io/web_portfolio/) · [GitHub](https://github.com/nadiacaricatto/web_portfolio)
+[Live](https://nadiacaricatto.github.io/nadia-portfolio/) · [GitHub](https://github.com/nadiacaricatto/nadia-portfolio)
 
 </details>
 
@@ -94,11 +102,11 @@
 
 **☁️ Nebula Forecast** — App de previsão do tempo com forecast de 5 dias<br>
 `JavaScript` `HTML` `CSS` `Open-Meteo API`<br>
-[GitHub](https://github.com/nadiacaricatto/projeto_clima)
+[Ver online](https://nadiacaricatto.github.io/nebula-forecast/) · [GitHub](https://github.com/nadiacaricatto/nebula-forecast)
 
 **📝 Blog Sphere** — Blog com posts, comentários e autenticação<br>
 `Spring Boot` `React` `MySQL`<br>
-[Backend](https://github.com/nadiacaricatto/blogpessoal_spring) · [Frontend](https://github.com/nadiacaricatto/blogpessoal_react)
+[Backend](https://github.com/nadiacaricatto/sphere-backend) · [Frontend](https://github.com/nadiacaricatto/sphere-frontend)
 
 <details>
 <summary>▸ Ver mais projetos</summary>
@@ -106,11 +114,19 @@
 
 **💊 Farmácia Dorgazil** — Sistema de gestão de estoque para farmácia<br>
 `Spring Boot` `JPA` `MySQL`<br>
-[GitHub](https://github.com/nadiacaricatto/projetofinal_farmacia)
+[Backend](https://github.com/nadiacaricatto/dorgazil-backend) · [Frontend](https://github.com/nadiacaricatto/dorgazil-frontend)
+
+**📚 Livraria do Beco Horizontal** — Sistema de gerenciamento de acervo literário via terminal<br>
+`Java` `POO` `Collections`<br>
+[GitHub](https://github.com/nadiacaricatto/livraria-beco-horizontal)
+
+**🔤 Verificador de Palíndromos** — Verificador e gerador interativo de palíndromos<br>
+`React` `TypeScript`<br>
+[Ver online](https://nadiacaricatto.github.io/palindrome-checker/) · [GitHub](https://github.com/nadiacaricatto/palindrome-checker)
 
 **🌐 Portfólio Pessoal** — Meu portfólio com suporte bilíngue<br>
 `HTML` `CSS` `JavaScript`<br>
-[Ver online](https://nadiacaricatto.github.io/web_portfolio/) · [GitHub](https://github.com/nadiacaricatto/web_portfolio)
+[Ver online](https://nadiacaricatto.github.io/nadia-portfolio/) · [GitHub](https://github.com/nadiacaricatto/nadia-portfolio)
 
 </details>
 
@@ -121,4 +137,4 @@
 🌐 Where to find me
 
 * [LinkedIn](https://www.linkedin.com/in/nadiacaricatto/)
-* [Portfolio](https://nadiacaricatto.github.io/web_portfolio/)
+* [Portfolio](https://nadiacaricatto.github.io/nadia-portfolio/)
